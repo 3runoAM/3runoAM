@@ -10,7 +10,8 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3runoAM&theme=tokyonight&hide_border=false" alt="Github stats"/>
 
 <br>
-## 🚀 Minhas Skills
+
+## Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
@@ -20,7 +21,7 @@
 
 
 
-### Onde me encontrar
+## Onde me encontrar
 
 <p align="left">
   <a href="mailto:jbrunno17@gmail.com" title="Gmail">
