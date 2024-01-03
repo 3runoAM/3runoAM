@@ -1,6 +1,6 @@
 # Oie, me chamo Bruno 👋
 
-<p>Estudante do 3º período de Análise e DesenvolvimenTo de Sistemas - UNIFIP<BR>Estagiário na Ellus Tecnologia</p>
+<p>Estudante do 4º período de Análise e DesenvolvimenTo de Sistemas - UNIFIP<BR>Estagiário na Ellus Tecnologia</p>
 
 <img src="https://img.shields.io/static/v1?label=Overview&message=Bruno Martins&theme=tokyonight4&style=for-the-badge&logo=GitHub" alt="Bruno Martins">
 <br>
