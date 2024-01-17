@@ -18,7 +18,6 @@
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/spring-icon-2048x2045-yufnoc34.png" alt="Spring"/></code>
 <code><img height="32" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" alt="Spring Boot"/></code>
-<code><img height="32" src=""></code>
 <br>
 
 
