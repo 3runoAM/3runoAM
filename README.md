@@ -14,7 +14,6 @@
 ## Minhas Skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" id="imagem-html" name="HTML5" alt="HTML5"/></code>
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/spring-icon-2048x2045-yufnoc34.png" alt="Spring"/></code>
@@ -22,7 +21,6 @@
 <code><img height="32" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" alt="Thymeleaf"/></code>
 <code><img height="32" src="https://w7.pngwing.com/pngs/640/199/png-transparent-javascript-logo-html-javascript-logo-angle-text-rectangle-thumbnail.png" alt="Javascript"/></code>
 <br>
-
 
 
 
