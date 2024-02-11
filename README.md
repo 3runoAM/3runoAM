@@ -36,4 +36,4 @@
 <p>
 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg%29)
+![snake gif](https://github.com/3runoAM/3runoAM/blob/output/github-contribution-grid-snake.svg%29)
