@@ -3,6 +3,7 @@ name: Generate Snake Game
 on:
   schedule:
     - cron: '0 0 * * *'  # Isso irá rodar o fluxo de trabalho todos os dias à meia-noite
+  workflow_dispatch:
 
 jobs:
   build:
