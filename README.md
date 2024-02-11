@@ -34,6 +34,3 @@
   <a href="https://www.linkedin.com/in/3runomartins" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/3runomartins" alt="LinkedIn"/></a>
 <p>
-
-
-![snake gif](https://github.com/3runoAM/3runoAM/blob/output/github-contribution-grid-snake.svg%29)
