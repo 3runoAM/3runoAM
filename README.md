@@ -21,6 +21,8 @@
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/spring-icon-2048x2045-yufnoc34.png" alt="Spring"/></code>
 <code><img height="32" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" alt="Spring Boot"/></code>
 <code><img height="32" src="https://seeklogo.com/images/T/thymeleaf-logo-6E4D42A713-seeklogo.com.png" alt="Thymeleaf"/></code>
+
+<code><img height="32" src="https://static-00.iconduck.com/assets.00/sql-database-sql-azure-icon-1955x2048-4pmty46t.png" alt="SQL"/></code>
 <br>
 
 
