@@ -17,7 +17,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/free-javascript-2038874-1720087.png" alt="Javascript"/></code>
 
-<code><img height="32" src="https://img.icons8.com/?size=512&id=ZMFmFsekpKfY&format=png" alt="Rails"/></code>
+<code><img height="32" src="![image](https://github.com/3runoAM/3runoAM/assets/111077073/138a7c68-69cf-4d6f-b38f-974df803f8d9)" alt="Rails"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" alt="Java"/></code>
 <code><img height="32" src="https://static-00.iconduck.com/assets.00/spring-icon-2048x2045-yufnoc34.png" alt="Spring"/></code>
 <code><img height="32" src="https://vscjava.gallerycdn.vsassets.io/extensions/vscjava/vscode-spring-boot-dashboard/0.13.2023072200/1689984300042/Microsoft.VisualStudio.Services.Icons.Default" alt="Spring Boot"/></code>
