@@ -1,6 +1,5 @@
 # Oie, me chamo Bruno 👋
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=Bruno Martins&theme=tokyonight4&style=for-the-badge&logo=GitHub" alt="Bruno Martins">
 <br>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=3runoAM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats"/>
 <img lign="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3runoAM&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats"/>
